@@ -1,3 +1,4 @@
+#to test building/pushing image trigger
 FROM nginx:latest
 
 COPY index.html /usr/share/nginx/html/
